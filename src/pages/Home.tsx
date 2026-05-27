@@ -4,7 +4,7 @@ import ProductCard from '../components/ProductCard.tsx';
 import SkeletonCard from '../components/SkeletonCard.tsx';
 import FilterBar from '../components/FilterBar.tsx';
 import productsData from '../data/products.json';
-import { Sparkles } from 'lucide-react';
+// import { Sparkles } from 'lucide-react';
 import type { Product } from '../types.ts';
 
 const Home: React.FC = () => {
@@ -50,9 +50,9 @@ const Home: React.FC = () => {
     });
   }, [products, activeCategory, searchQuery]);
 
-  const topPicks = useMemo(() => {
-    return products.slice(0, 3);
-  }, [products]);
+  // const topPicks = useMemo(() => {
+  //   return products.slice(0, 3);
+  // }, [products]);
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-950 text-gray-900 dark:text-gray-100 transition-colors duration-300">
