@@ -1,74 +1,47 @@
 [
   {
     "id": 1,
-    "productName": "Logitech MX Master 3S Wireless Mouse",
-    "image": "/images/mouse.jpg",
-    "amazonLink": "https://a.co/d/07i1PBXS",
-    "price": 99.00,
-    "shortDescription": "Quiet clicks, 8K DPI tracking on any surface, and ergonomic design.",
-    "category": "Electronics"
+    "productName": "Car Duster Exterior",
+    "image": "/images/duster.jpg",
+    "amazonLink": "https://a.co/d/0fQknVzU",
+    "price": 2787.00,
+    "shortDescription": " Scratch Free,Soft Car Brush Kit for Truck,SUV,RV and Motorcycle,Wax Cotton Hair,Dusters with Extendable Handle,Duster for Cleaning,Dust Pollen Removing,No Lint.",
+    "category": "Accessories"
   },
   {
     "id": 2,
-    "productName": "Kindle Paperwhite (16 GB)",
-    "image": "/images/kindle.jpg",
-    "amazonLink": "https://amzn.to/3vXqRzX",
-    "price": 149.99,
-    "shortDescription": "6.8\" display and adjustable warm light. Up to 10 weeks of battery life.",
-    "category": "Electronics"
+    "productName": "Simple Kind to Skin Refreshing Facial Wash Gel ,150 ml (5 Ounce)",
+    "image": "https://m.media-amazon.com/images/I/51EFM8yM+ZL._SL1000_.jpg",
+    "amazonLink": "https://a.co/d/07myHFdW",
+    "price": 711.99,
+    "shortDescription": "Simple Kind to Skin Refreshing Facial Wash Gel (150ml)",
+    "category": "Skin Care"
   },
   {
     "id": 3,
-    "productName": "Stanley Quencher H2.0 FlowState Tumbler",
-    "image": "/images/tumbler.jpg",
-    "amazonLink": "https://amzn.to/3vXqRzX",
+    "productName": "TITAN BLACK Perfume | Eau De Perfume: | Long Lasting Fragrance perfume | For Men | 100 ml",
+    "image": "https://m.media-amazon.com/images/I/31sxpdMFW8L.jpg",
+    "amazonLink": "https://a.co/d/0jh8Akxe",
     "price": 45.00,
-    "shortDescription": "Vacuum insulated stainless steel water bottle with straw and lid.",
-    "category": "Home"
+    "shortDescription": "TITAN BLACK Perfume | Eau De Perfume | Long Lasting Fragrance Perfume | For Men | 100 ml",
+    "category": "Fragrance"
   },
   {
     "id": 4,
     "productName": "Sony WH-1000XM5 Wireless Headphones",
-    "image": "/images/headphones.jpg",
-    "amazonLink": "https://amzn.to/3vXqRzX",
+    "image": "https://m.media-amazon.com/images/I/61vJtKbAssL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "amazonLink": "https://a.co/d/0663m20M",
     "price": 398.00,
-    "shortDescription": "Industry-leading noise canceling with Auto NC Optimizer.",
+    "shortDescription": "Available at a lower price from other sellers that may not offer free Prime shipping.",
     "category": "Electronics"
   },
   {
     "id": 5,
-    "productName": "Apple AirTag 4 Pack",
-    "image": "/images/airtag.jpg",
-    "amazonLink": "https://amzn.to/3vXqRzX",
-    "price": 79.99,
-    "shortDescription": "Keep track of and find your items alongside friends and devices.",
-    "category": "Electronics"
-  },
-  {
-    "id": 6,
-    "productName": "KitchenAid Artisan Series 5 Quart Tilt-Head Stand Mixer",
-    "image": "/images/mixer.jpg",
-    "amazonLink": "https://amzn.to/3vXqRzX",
-    "price": 449.99,
-    "shortDescription": "Choose from over 20 different colors of the KitchenAid Artisan Series.",
-    "category": "Home"
-  },
-  {
-    "id": 7,
-    "productName": "Fujifilm Instax Mini 12 Instant Camera",
-    "image": "/images/camera.jpg",
-    "amazonLink": "https://amzn.to/3vXqRzX",
-    "price": 79.95,
-    "shortDescription": "Take bright photos, no matter where or when! Built-in selfie mirror.",
-    "category": "Photography"
-  },
-  {
-    "id": 8,
-    "productName": "Anker 737 Power Bank (PowerCore 24K)",
-    "image": "/images/powerbank.jpg",
-    "amazonLink": "https://amzn.to/3vXqRzX",
-    "price": 149.99,
-    "shortDescription": "Ultra-Powerful Two-Way Charging with Smart Digital Display.",
+    "productName": "SUPFINE Magnetic for iPhone 17 Pro Case",
+    "image": "https://m.media-amazon.com/images/I/71K9WLxCqiL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "amazonLink": "https://a.co/d/0dH78mxq",
+    "price": 400.00,
+    "shortDescription": "Translucent Matte Shockproof with Anti-Fingerprint Phone Cover,Black.",
     "category": "Electronics"
   }
 ]

@@ -75,7 +75,7 @@ const Home: React.FC = () => {
         </section>
 
         {/* Top Picks Section */}
-        {!loading && searchQuery === '' && activeCategory === 'All' && (
+        {/* {!loading && searchQuery === '' && activeCategory === 'All' && (
           <section className="mb-16">
             <div className="flex items-center gap-2 mb-8">
               <Sparkles className="h-6 w-6 text-yellow-500 fill-yellow-500" />
@@ -87,7 +87,7 @@ const Home: React.FC = () => {
               ))}
             </div>
           </section>
-        )}
+        )} */}
 
         {/* Filters and Grid */}
         <section>

@@ -16,7 +16,7 @@ const Navbar: React.FC<NavbarProps> = ({ darkMode, toggleDarkMode, searchQuery, 
           <div className="flex items-center gap-2">
             <ShoppingBag className="h-8 w-8 text-primary-600" />
             <span className="text-xl font-bold bg-gradient-to-r from-primary-600 to-blue-500 bg-clip-text text-transparent hidden sm:block">
-              AffiliateShowcase
+              RRR Cart uh
             </span>
           </div>
 
