@@ -1,5 +1,6 @@
 export interface Product {
-  id: number;
+  _id?: string;
+  id?: number;
   productName: string;
   image: string;
   amazonLink: string;

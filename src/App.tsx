@@ -1,10 +1,16 @@
-import Home from './pages/Home.tsx'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Home from './pages/Home.tsx';
+import Admin from './pages/Admin.tsx';
 
 function App() {
-  console.log('App component rendering');
   return (
-    <Home />
-  )
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/admin" element={<Admin />} />
+      </Routes>
+    </Router>
+  );
 }
 
-export default App
+export default App;

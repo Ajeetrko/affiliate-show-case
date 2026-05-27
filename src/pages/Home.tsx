@@ -18,12 +18,18 @@ const Home: React.FC = () => {
   const [activeCategory, setActiveCategory] = useState('All');
 
   useEffect(() => {
-    // Simulate loading
-    const timer = setTimeout(() => {
-      setProducts(productsData);
-      setLoading(false);
-    }, 1500);
-    return () => clearTimeout(timer);
+    const fetchProducts = async () => {
+      try {
+        const res = await fetch('/api/products');
+        const data = await res.json();
+        setProducts(data);
+        setLoading(false);
+      } catch (error) {
+        console.error('Failed to fetch products:', error);
+        setLoading(false);
+      }
+    };
+    fetchProducts();
   }, []);
 
   useEffect(() => {
