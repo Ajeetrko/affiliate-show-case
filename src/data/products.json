@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "productName": "Logitech MX Master 3S Wireless Mouse",
+    "image": "/images/mouse.jpg",
+    "amazonLink": "https://a.co/d/07i1PBXS",
+    "price": 99.00,
+    "shortDescription": "Quiet clicks, 8K DPI tracking on any surface, and ergonomic design.",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "productName": "Kindle Paperwhite (16 GB)",
+    "image": "/images/kindle.jpg",
+    "amazonLink": "https://amzn.to/3vXqRzX",
+    "price": 149.99,
+    "shortDescription": "6.8\" display and adjustable warm light. Up to 10 weeks of battery life.",
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "productName": "Stanley Quencher H2.0 FlowState Tumbler",
+    "image": "/images/tumbler.jpg",
+    "amazonLink": "https://amzn.to/3vXqRzX",
+    "price": 45.00,
+    "shortDescription": "Vacuum insulated stainless steel water bottle with straw and lid.",
+    "category": "Home"
+  },
+  {
+    "id": 4,
+    "productName": "Sony WH-1000XM5 Wireless Headphones",
+    "image": "/images/headphones.jpg",
+    "amazonLink": "https://amzn.to/3vXqRzX",
+    "price": 398.00,
+    "shortDescription": "Industry-leading noise canceling with Auto NC Optimizer.",
+    "category": "Electronics"
+  },
+  {
+    "id": 5,
+    "productName": "Apple AirTag 4 Pack",
+    "image": "/images/airtag.jpg",
+    "amazonLink": "https://amzn.to/3vXqRzX",
+    "price": 79.99,
+    "shortDescription": "Keep track of and find your items alongside friends and devices.",
+    "category": "Electronics"
+  },
+  {
+    "id": 6,
+    "productName": "KitchenAid Artisan Series 5 Quart Tilt-Head Stand Mixer",
+    "image": "/images/mixer.jpg",
+    "amazonLink": "https://amzn.to/3vXqRzX",
+    "price": 449.99,
+    "shortDescription": "Choose from over 20 different colors of the KitchenAid Artisan Series.",
+    "category": "Home"
+  },
+  {
+    "id": 7,
+    "productName": "Fujifilm Instax Mini 12 Instant Camera",
+    "image": "/images/camera.jpg",
+    "amazonLink": "https://amzn.to/3vXqRzX",
+    "price": 79.95,
+    "shortDescription": "Take bright photos, no matter where or when! Built-in selfie mirror.",
+    "category": "Photography"
+  },
+  {
+    "id": 8,
+    "productName": "Anker 737 Power Bank (PowerCore 24K)",
+    "image": "/images/powerbank.jpg",
+    "amazonLink": "https://amzn.to/3vXqRzX",
+    "price": 149.99,
+    "shortDescription": "Ultra-Powerful Two-Way Charging with Smart Digital Display.",
+    "category": "Electronics"
+  }
+]
